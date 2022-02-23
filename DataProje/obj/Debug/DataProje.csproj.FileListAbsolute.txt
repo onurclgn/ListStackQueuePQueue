@@ -1,0 +1,14 @@
+C:\Users\ARGOS\source\repos\DataProje\DataProje\bin\Debug\DataProje.exe.config
+C:\Users\ARGOS\source\repos\DataProje\DataProje\bin\Debug\DataProje.exe
+C:\Users\ARGOS\source\repos\DataProje\DataProje\bin\Debug\DataProje.pdb
+C:\Users\ARGOS\source\repos\DataProje\DataProje\obj\Debug\DataProje.csprojAssemblyReference.cache
+C:\Users\ARGOS\source\repos\DataProje\DataProje\obj\Debug\DataProje.csproj.CoreCompileInputs.cache
+C:\Users\ARGOS\source\repos\DataProje\DataProje\obj\Debug\DataProje.exe
+C:\Users\ARGOS\source\repos\DataProje\DataProje\obj\Debug\DataProje.pdb
+C:\Users\ARGOS\Desktop\DataProje\DataProje\bin\Debug\DataProje.exe.config
+C:\Users\ARGOS\Desktop\DataProje\DataProje\bin\Debug\DataProje.exe
+C:\Users\ARGOS\Desktop\DataProje\DataProje\bin\Debug\DataProje.pdb
+C:\Users\ARGOS\Desktop\DataProje\DataProje\obj\Debug\DataProje.csproj.AssemblyReference.cache
+C:\Users\ARGOS\Desktop\DataProje\DataProje\obj\Debug\DataProje.csproj.CoreCompileInputs.cache
+C:\Users\ARGOS\Desktop\DataProje\DataProje\obj\Debug\DataProje.exe
+C:\Users\ARGOS\Desktop\DataProje\DataProje\obj\Debug\DataProje.pdb
